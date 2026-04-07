@@ -12,10 +12,10 @@
 
 > “Certified Senior Cloud/DevOps Engineer with 10+ years of experience designing secure hybrid infrastructures using AWS, Azure, and GCP.”
 
-I specialize in building secure, scalable, automated cloud platforms across AWS, Azure, and GCP.  
-My expertise spans Kubernetes, Terraform, CI/CD, DevSecOps, and multi‑cloud architecture.
+I design and automate secure, scalable cloud platforms using Kubernetes, Terraform, and DevSecOps best practices.  
+My work focuses on reducing deployment time, improving reliability, and building enterprise‑grade cloud systems across AWS, Azure, and GCP.
 
-I enjoy designing production‑grade clusters, automating everything, and building SaaS products that solve real business problems.
+I enjoy building production‑ready Kubernetes clusters, implementing Zero Trust architectures, and creating automation that eliminates manual work.
 
 ---
 
@@ -47,6 +47,17 @@ I enjoy designing production‑grade clusters, automating everything, and buildi
 
 ---
 
+# 🌟 Key Achievements
+
+- **40% faster deployments** using Terraform + Helm across AWS, Azure, GCP  
+- **70% reduction in deployment time** through CI/CD automation (Jenkins + ArgoCD)  
+- **60% reduced attack surface** using Cloudflare Zero Trust + Argo Tunnels  
+- **25% cloud cost savings** via rightsizing, Spot Instances, and automation  
+- **Migrated 40+ monoliths → microservices**, improving scalability and reliability  
+- **Automated 90% of operational tasks** using Ansible + Terraform  
+
+---
+
 # 💼 Professional Experience
 
 ### **Senior Cloud Kubernetes Developer — EITC (DU), Dubai**
@@ -73,10 +84,48 @@ I enjoy designing production‑grade clusters, automating everything, and buildi
 
 ---
 
+# 🧩 What I Excel At
+
+- Designing multi‑cloud Kubernetes platforms (EKS, AKS, GKE)  
+- Building GitOps pipelines with ArgoCD  
+- Implementing Zero Trust architectures  
+- Automating infrastructure with Terraform & Ansible  
+- Observability: Prometheus, Grafana, EFK/ELK  
+- DevSecOps: Snyk, Trivy, SonarQube  
+- High‑availability architectures (RDS, ECS Fargate, VPC, ALB, ASG)  
+
+---
+
+# 🚀 Featured Projects
+
+### **Multi‑Cloud Kubernetes Platform**
+Production‑grade EKS/AKS/GKE platform using Terraform, Helm, Istio, and GitOps.
+
+### **Zero Trust Cloud Ingress**
+Cloudflare Zero Trust + Argo Tunnels to eliminate VPNs and secure ingress.
+
+### **Enterprise CI/CD Automation**
+Pipelines integrating Snyk, Trivy, SonarQube, and ArgoCD for secure deployments.
+
+### **Microservices Migration**
+Migrated 40+ monoliths to microservices using Docker, Kubernetes, RabbitMQ/Kafka.
+
+---
+
 # 🏆 Certifications
 - AWS Certified Solutions Architect  
 - Microsoft Certified Azure Administrator  
 - Microsoft Certified Azure Solutions Architect  
+
+---
+
+# 📊 GitHub Stats
+
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj143&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=suraj143&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj143&layout=compact&theme=tokyonight)
 
 ---
 
