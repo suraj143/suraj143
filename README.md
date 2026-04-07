@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Suraj Boddula  
+# 👋 Hi, I'm Suraj  
 ### Senior Cloud & DevOps Engineer | Multi‑Cloud | Kubernetes | DevSecOps | IaC | Automation
 
 [LinkedIn](https://www.linkedin.com/in/suraj-b-944a73186/) •  
@@ -13,7 +13,7 @@
 > “Certified Senior Cloud/DevOps Engineer with 10+ years of experience designing secure hybrid infrastructures using AWS, Azure, and GCP.”
 
 I design and automate secure, scalable cloud platforms using Kubernetes, Terraform, and DevSecOps best practices.  
-My work focuses on reducing deployment time, improving reliability, and building enterprise‑grade cloud systems across AWS, Azure, and GCP.
+My focus is on reducing deployment time, improving reliability, optimizing cloud costs, and enabling high‑availability systems across AWS, Azure, and GCP.
 
 I enjoy building production‑ready Kubernetes clusters, implementing Zero Trust architectures, and creating automation that eliminates manual work.
 
@@ -86,13 +86,13 @@ I enjoy building production‑ready Kubernetes clusters, implementing Zero Trust
 
 # 🧩 What I Excel At
 
-- Designing multi‑cloud Kubernetes platforms (EKS, AKS, GKE)  
-- Building GitOps pipelines with ArgoCD  
-- Implementing Zero Trust architectures  
-- Automating infrastructure with Terraform & Ansible  
+- Multi‑cloud Kubernetes architecture (EKS, AKS, GKE)  
+- GitOps workflows with ArgoCD  
+- Zero Trust security & Cloudflare automation  
+- Infrastructure automation with Terraform & Ansible  
 - Observability: Prometheus, Grafana, EFK/ELK  
 - DevSecOps: Snyk, Trivy, SonarQube  
-- High‑availability architectures (RDS, ECS Fargate, VPC, ALB, ASG)  
+- High‑availability cloud architecture (RDS, ECS, VPC, ALB, ASG)  
 
 ---
 
