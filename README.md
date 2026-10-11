@@ -1,138 +1,158 @@
-# Suraj
+# Hi, I'm Suraj
 
-**Senior Cloud & DevOps Engineer** · UAE · AWS & Azure Certified · Kubernetes · Terraform · SRE
-
-Building secure multi-cloud platforms — and shipping enterprise SaaS for the UAE market.
+### Senior Cloud & DevOps Engineer | Multi-Cloud | Kubernetes | DevSecOps | IaC | Automation
 
 [LinkedIn](https://www.linkedin.com/in/suraj-b-944a73186/) ·
+[GitHub](https://github.com/suraj143) ·
 [Medium](https://medium.com/@sriman.suraj1) ·
 [Triveree](https://triveree.com/) ·
 [Product showcase](https://github.com/suraj143/triveree-showcase)
 
 ---
 
-## Featured product: Soft Data HRMS
+## About Me
 
-**Enterprise workforce operations for Soft Data LLC (UAE / GCC)**
+> Certified Senior Cloud/DevOps Engineer with 10+ years of experience designing secure hybrid infrastructures using AWS, Azure, and GCP.
 
-Soft Data HRMS is a role-based HR and payroll platform covering the full employee lifecycle: hiring, people operations, leave, timesheets, UAE payroll (including WPS and end-of-service), documents, and analytics — with Super Admin control over modules, SSO, and company branding.
+I design and automate secure, scalable cloud platforms using Kubernetes, Terraform, and DevSecOps best practices.  
+My focus is on reducing deployment time, improving reliability, optimizing cloud costs, and enabling high-availability systems across AWS, Azure, and GCP.
 
-| | |
-| :--- | :--- |
-| **Public docs & demos** | [Enterprise-HRMS-UAE in triveree-showcase](https://github.com/suraj143/triveree-showcase/tree/main/Enterprise-HRMS-UAE) |
-| **Showcase repository** | [suraj143/triveree-showcase](https://github.com/suraj143/triveree-showcase) |
-| **Walkthrough** | [Full demo video](https://github.com/suraj143/triveree-showcase/blob/main/Enterprise-HRMS-UAE/docs/demo/soft-data-hrms-full-demo.mp4) |
-| **Company** | [Triveree.com](https://triveree.com/) |
-
-<p align="center">
-  <a href="https://github.com/suraj143/triveree-showcase/tree/main/Enterprise-HRMS-UAE">
-    <img
-      src="https://raw.githubusercontent.com/suraj143/triveree-showcase/main/Enterprise-HRMS-UAE/docs/screenshots/softdata-dashboard.png"
-      alt="Soft Data HRMS — workforce dashboard"
-      width="920"
-    />
-  </a>
-</p>
-
-### Capabilities
-
-| Area | Scope |
-| --- | --- |
-| People & org | Employee directory, departments, compensation packages with revision history |
-| Talent | Recruitment ATS (openings, pipeline, offers, hire-to-employee) |
-| Absence & time | Leave request / approval / balances, encashment, timesheets, optional attendance |
-| UAE payroll | Config-driven runs, proration, payslip PDF branding, WPS SIF, EOS / gratuity |
-| Operations | Documents workflow, live dashboard KPIs, UAE reports, audit log |
-| Governance | Super Admin module enable/disable, SSO integrations, company branding |
-
-### Selected product views
-
-| Dashboard | Employees | Payroll |
-| :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/suraj143/triveree-showcase/main/Enterprise-HRMS-UAE/docs/screenshots/softdata-dashboard.png" width="280" alt="Dashboard" /> | <img src="https://raw.githubusercontent.com/suraj143/triveree-showcase/main/Enterprise-HRMS-UAE/docs/screenshots/softdata-employees.png" width="280" alt="Employees" /> | <img src="https://raw.githubusercontent.com/suraj143/triveree-showcase/main/Enterprise-HRMS-UAE/docs/screenshots/softdata-payroll.png" width="280" alt="Payroll" /> |
-
-| Leave | Recruitment | Reports |
-| :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/suraj143/triveree-showcase/main/Enterprise-HRMS-UAE/docs/screenshots/leave-management.png" width="280" alt="Leave" /> | <img src="https://raw.githubusercontent.com/suraj143/triveree-showcase/main/Enterprise-HRMS-UAE/docs/screenshots/recruitment-pipeline.png" width="280" alt="Recruitment" /> | <img src="https://raw.githubusercontent.com/suraj143/triveree-showcase/main/Enterprise-HRMS-UAE/docs/screenshots/hr-reports.png" width="280" alt="Reports" /> |
-
-### Platform
-
-| Layer | Technology |
-| --- | --- |
-| Frontend | Angular |
-| API | NestJS, JWT, role & module guards |
-| Data | PostgreSQL, Prisma, Redis |
-| Delivery | Docker Compose, nginx |
-
-> Product documentation, screenshots, and demo assets are published in the public showcase. Application source remains private.
+I enjoy building production-ready Kubernetes clusters, implementing Zero Trust architectures, and creating automation that eliminates manual work.
 
 ---
 
-## Professional summary
+## Technical Skills
 
-Certified Senior Cloud/DevOps Engineer with 10+ years designing secure, scalable platforms across AWS, Azure, and GCP. Experience spans Kubernetes (EKS/AKS/GKE), Terraform, GitOps (ArgoCD), Zero Trust networking, and CI/CD with strong cost and reliability outcomes.
+### Cloud Platforms
+![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp)
 
-I combine infrastructure engineering with product delivery — Soft Data HRMS is an example of end-to-end enterprise software built for UAE corporate operations.
+### Containers & Orchestration
+![Containers](https://skillicons.dev/icons?i=docker,kubernetes,helm)
 
----
+### CI/CD
+![CI/CD](https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,azuredevops,bitbucket)
 
-## Core skills
+### Infrastructure as Code
+![IaC](https://skillicons.dev/icons?i=terraform,ansible)
 
-**Cloud & platforms:** AWS · Azure · GCP · Kubernetes · Docker · Helm · Istio  
-**Automation & delivery:** Terraform · Ansible · Jenkins · GitHub Actions · ArgoCD · GitOps  
-**Security & ops:** Cloudflare Zero Trust · DevSecOps (Snyk, Trivy, SonarQube) · Prometheus · Grafana · EFK  
-**Application stack (product):** Angular · NestJS · PostgreSQL · Redis · Docker Compose
+### Security
+![Security](https://skillicons.dev/icons?i=cloudflare)
 
-![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible)
-![Product](https://skillicons.dev/icons?i=angular,nodejs,postgres,redis,nginx,githubactions)
+### Languages & Scripting
+![Languages](https://skillicons.dev/icons?i=bash,python,powershell)
 
----
+### Databases
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)
 
-## Selected outcomes
-
-| Outcome | Approach |
-| --- | --- |
-| Soft Data HRMS (UAE) | Enterprise HR + payroll product with public showcase docs and demos |
-| ~40% faster deployments | Terraform + Helm across AWS, Azure, GCP |
-| ~70% reduction in release cycle time | Jenkins + ArgoCD automation |
-| ~60% reduced attack surface | Cloudflare Zero Trust + Argo Tunnels |
-| ~25% cloud cost savings | Rightsizing, Spot instances, operational automation |
-| 40+ services modernized | Monolith-to-microservices migration programs |
+### Other Tools
+![Tools](https://skillicons.dev/icons?i=nginx,apache)
 
 ---
 
-## Experience
+## Key Achievements
 
-| Role | Organization | Focus |
-| --- | --- | --- |
-| Senior Cloud Kubernetes Developer | EITC (DU), Dubai | Multi-cloud Kubernetes, Zero Trust, Istio, observability |
-| Senior Cloud DevOps Engineer | DIFX Technology | Terraform / CloudFormation, GitOps, ECS, RDS |
-| Senior Staff Engineer | Druva | Microservices migration, cost optimization, IaC |
-| Azure DevOps Engineer | Hitachi Vantara | Private EKS/AKS, database migrations, Jenkins + Helm |
+- **40% faster deployments** using Terraform + Helm across AWS, Azure, GCP
+- **70% reduction in deployment time** through CI/CD automation (Jenkins + ArgoCD)
+- **60% reduced attack surface** using Cloudflare Zero Trust + Argo Tunnels
+- **25% cloud cost savings** via rightsizing, Spot Instances, and automation
+- **Migrated 40+ monoliths → microservices**, improving scalability and reliability
+- **Automated 90% of operational tasks** using Ansible + Terraform
+
+---
+
+## Professional Experience
+
+### Senior Cloud Kubernetes Developer — EITC (DU), Dubai
+- Designed multi-cloud Kubernetes infrastructure using Terraform & Helm
+- Implemented Cloudflare Zero Trust with Argo Tunnels
+- Integrated Istio service mesh for traffic/security policies
+- Enhanced observability with Prometheus & Grafana
+
+### Senior Cloud DevOps Engineer — DIFX Technology
+- Automated IaC across AWS & Azure (Terraform, CloudFormation, ARM)
+- Built GitOps pipelines with ArgoCD
+- Architected RDS, ECS Fargate, CloudFront, VPCs
+- Implemented EFK logging for Kubernetes clusters
+
+### Senior Staff Engineer — Druva
+- Migrated monoliths → microservices
+- Reduced cloud costs by 25%
+- Automated infra with Terraform + Ansible
+
+### Azure DevOps Engineer — Hitachi Vantara
+- Designed private EKS/AKS clusters
+- Migrated PostgreSQL → AWS RDS & Azure SQL
+- Automated deployments using Jenkins + Helm
+
+---
+
+## What I Excel At
+
+- Multi-cloud Kubernetes architecture (EKS, AKS, GKE)
+- GitOps workflows with ArgoCD
+- Zero Trust security & Cloudflare automation
+- Infrastructure automation with Terraform & Ansible
+- Observability: Prometheus, Grafana, EFK/ELK
+- DevSecOps: Snyk, Trivy, SonarQube
+- High-availability cloud architecture (RDS, ECS, VPC, ALB, ASG)
+
+---
+
+## Featured Projects
+
+### Multi-Cloud Kubernetes Platform
+Production-grade EKS/AKS/GKE platform using Terraform, Helm, Istio, and GitOps.
+
+### Zero Trust Cloud Ingress
+Cloudflare Zero Trust + Argo Tunnels to eliminate VPNs and secure ingress.
+
+### Enterprise CI/CD Automation
+Pipelines integrating Snyk, Trivy, SonarQube, and ArgoCD for secure deployments.
+
+### Microservices Migration
+Migrated 40+ monoliths to microservices using Docker, Kubernetes, RabbitMQ/Kafka.
 
 ---
 
 ## Certifications
 
-- AWS Certified Solutions Architect  
-- Microsoft Certified: Azure Administrator  
-- Microsoft Certified: Azure Solutions Architect  
+- AWS Certified Solutions Architect
+- Microsoft Certified Azure Administrator
+- Microsoft Certified Azure Solutions Architect
 
 ---
 
-## Featured links
+## Products & commercial work
 
-| Resource | URL |
+| | |
 | --- | --- |
-| Soft Data HRMS (docs & demo) | https://github.com/suraj143/triveree-showcase/tree/main/Enterprise-HRMS-UAE |
-| Triveree Group showcase | https://github.com/suraj143/triveree-showcase |
-| Triveree | https://triveree.com/ |
-| LinkedIn | https://www.linkedin.com/in/suraj-b-944a73186/ |
-| Medium | https://medium.com/@sriman.suraj1 |
+| **Triveree** | [triveree.com](https://triveree.com/) |
+| **Product showcase** | [github.com/suraj143/triveree-showcase](https://github.com/suraj143/triveree-showcase) |
 
 ---
 
-## GitHub activity
+## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj143&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj143&layout=compact&theme=default&hide_border=true)
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj143&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=suraj143&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj143&layout=compact&theme=tokyonight)
+
+---
+
+## Connect With Me
+
+| Platform | Link |
+| --- | --- |
+| **LinkedIn** | https://www.linkedin.com/in/suraj-b-944a73186/ |
+| **GitHub** | https://github.com/suraj143 |
+| **Medium** | https://medium.com/@sriman.suraj1 |
+| **Triveree** | https://triveree.com/ |
+| **Product showcase** | https://github.com/suraj143/triveree-showcase |
+
+---
+
+> “Reduced deployment time by 70% through automation of CI/CD pipelines using Jenkins and ArgoCD.”
+
+Thanks for visiting my profile!
